@@ -22,7 +22,4 @@
     <java-symbol type="array" name="config_deviceKeyHandlerLibs" />
     <java-symbol type="array" name="config_deviceKeyHandlerClasses" />
 
-    <!-- Whether to allow network traffic on statusbar -->
-    <java-symbol type="bool" name="config_supportsNetworkTrafficOnStatusBar" />
-
 </resources>
